@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Oswald&display=swap");
 
 body {
-  background-color: red;
+  background-color: black;
 }
 #hero img {
   height: 100vh;
@@ -20,10 +20,6 @@ body {
   top: 0;
   left: 0;
 }
-
-h3 {
-  font-size: 10px;
-  }
 
 .switch {
   position: absolute;
@@ -63,7 +59,7 @@ h3 {
 }
 
 input:checked + .slider {
-  background-color: white;
+  background-color: black;
 }
 
 input:focus + .slider {
