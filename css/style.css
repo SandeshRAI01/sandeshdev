@@ -59,7 +59,7 @@ body {
 }
 
 input:checked + .slider {
-  background-color: black;
+  background-color: white;
 }
 
 input:focus + .slider {
